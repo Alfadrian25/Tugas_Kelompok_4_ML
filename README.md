@@ -68,13 +68,12 @@ Dapat digunakan untuk gambar, video, dan real-time kamera
 Dapat dikembangkan untuk custom object detection
 
 👥 Anggota Kelompok
----
+
 Alfadrian Januarsyah  (231001067)
 Tasri Zulfitriyati    (231001074)
 M. Irvan Maulana P.   (231001071)
 Nabila Isnaeni        (231001054)
 Silvia Fasya Aprilian (231001002)
----
 
 📌 Catatan
 
