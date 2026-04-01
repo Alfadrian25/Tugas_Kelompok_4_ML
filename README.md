@@ -55,23 +55,26 @@ Jalankan file notebook atau script Python
 Cascade Classifier adalah metode deteksi objek berbasis fitur Haar yang diperkenalkan oleh Viola-Jones Algorithm.
 
 🔹 Cara Kerja
-Menggunakan fitur Haar
-Menggunakan classifier berlapis (cascade)
-Mengscan gambar pada berbagai ukuran
+- Menggunakan fitur Haar
+- Menggunakan classifier berlapis (cascade)
+- Mengscan gambar pada berbagai ukuran
 
 
 🧠 Kesimpulan
+
 Cascade Classifier merupakan metode deteksi objek yang cepat dan efisien
 OpenCV menyediakan banyak model siap pakai (.xml)
 Dapat digunakan untuk gambar, video, dan real-time kamera
 Dapat dikembangkan untuk custom object detection
 
 👥 Anggota Kelompok
+---
 Alfadrian Januarsyah  (231001067)
 Tasri Zulfitriyati    (231001074)
 M. Irvan Maulana P.   (231001071)
 Nabila Isnaeni        (231001054)
 Silvia Fasya Aprilian (231001002)
+---
 
 📌 Catatan
 
