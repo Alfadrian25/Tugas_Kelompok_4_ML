@@ -30,40 +30,18 @@ Cascade Classifier adalah metode deteksi objek berbasis fitur Haar yang digunaka
 
 ---
 
-## 📂 Struktur Repository
+##🎥 Video Presentasi
 
+📌 Link YouTube:
 
-Tugas_Kelompok_4_ML/
-│
-├── OpenCV_4.ipynb
-├── haarcascades/
-│ ├── haarcascade_frontalface_default.xml
-│ ├── haarcascade_eye.xml
-│ ├── haarcascade_smile.xml
-│ ├── cars.xml
-│ └── haarcascade_fullbody.xml
-│
-| ├── results/
-|
-│ ├── lena.jpg
-│ ├── family.jpg
-│ ├── cars2.jpg  
-|
-│
-├── videos/
-│ ├── cars_video.mp4
-│ ├── pedestrians.mp4
-│
-└── README.md
-
-
+Masukkan link video di sini
 ---
 
 ## ⚙️ Cara Menjalankan
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/Alfadrian25/opencv-object-detection.git
+git clone https://github.com/Alfadrian25/Tugas_Kelompok_4_ML.git
 
 Install dependencies:
 
@@ -80,12 +58,6 @@ Cascade Classifier adalah metode deteksi objek berbasis fitur Haar yang diperken
 Menggunakan fitur Haar
 Menggunakan classifier berlapis (cascade)
 Mengscan gambar pada berbagai ukuran
-
-🎥 Video Presentasi
-
-📌 Link YouTube:
-
-Masukkan link video di sini
 
 
 🧠 Kesimpulan
