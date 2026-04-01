@@ -27,6 +27,7 @@ Cascade Classifier adalah metode deteksi objek berbasis fitur Haar yang digunaka
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+- VsCode
 
 ---
 
