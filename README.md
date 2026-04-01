@@ -31,11 +31,11 @@ Cascade Classifier adalah metode deteksi objek berbasis fitur Haar yang digunaka
 
 ---
 
-##🎥 Video Presentasi
+#🎥 Video Presentasi
 
 📌 Link YouTube:
 
-Masukkan link video di sini
+https://youtu.be/_y0ba--zETY?si=RcVLp1Ga6XkFQC1Y
 ---
 
 ## ⚙️ Cara Menjalankan
